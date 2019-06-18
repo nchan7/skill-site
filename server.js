@@ -19,7 +19,7 @@ var skills = [
 	"CSS 3",
 	"Node JS",
 	"Express JS",
-	"Crooning"
+	"Python"
 ];
 
 // Need a home page saying what this is 
